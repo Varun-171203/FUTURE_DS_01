@@ -1,0 +1,24 @@
+Excited to share my first Data Science & Analytics project! 📊
+
+I completed Task 1 — Business Sales Performance Analytics — as part of my Data Science & Analytics Internship with Future Interns.
+
+I analysed 9,994 Superstore sales transactions (2014–2017) to answer real business questions: which products make money, how sales grow over time, and which regions/categories are truly profitable.
+
+Key insights I found:
+• Sales grew 51.4% in 3 years to $733,215 in 2017, but overall margin is only 12.47%
+• Technology is the profit engine (17.40% margin) — Copiers alone earn at 37.20% margin
+• Furniture sells a lot but earns almost nothing (2.49% margin) — Tables actually lose -$17,725
+• Discounts above 20% destroy profit — discounts above 50% lost -$76,559
+• Texas is 3rd in sales but loses -$25,729 — high revenue, negative profit
+
+My top recommendation: Cap discounts at 20%, fix the Tables line, and push Technology in Q4 (November is the peak month every year).
+
+Tools used: Python (pandas, matplotlib), Microsoft Excel
+Full report, Excel dashboard & code are on my GitHub: [PASTE YOUR GITHUB REPO LINK HERE — repo name: FUTURE_DS_01]
+
+Thank you @Future Interns for this hands-on learning opportunity!
+
+#futureinterns #DataAnalytics #DataScience #Python #Excel #BusinessAnalytics #Internship
+
+---
+NOTE FOR PIYUSH (delete before posting): Do NOT upload the offer letter PDF or your CIN number in this post. Paste only the GitHub link. Tag the company page: https://www.linkedin.com/company/future-interns/
