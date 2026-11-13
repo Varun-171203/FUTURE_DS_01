@@ -14,7 +14,7 @@ Key insights I found:
 My top recommendation: Cap discounts at 20%, fix the Tables line, and push Technology in Q4 (November is the peak month every year).
 
 Tools used: Python (pandas, matplotlib), Microsoft Excel
-Full report, Excel dashboard & code are on my GitHub: [PASTE YOUR GITHUB REPO LINK HERE — repo name: FUTURE_DS_01]
+Full report, Excel dashboard & code are on my GitHub: [https://github.com/Varun-171203/FUTURE_DS_01 — repo name: FUTURE_DS_01]
 
 Thank you @Future Interns for this hands-on learning opportunity!
 
